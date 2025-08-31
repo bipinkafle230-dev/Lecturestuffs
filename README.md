@@ -1,25 +1,3 @@
-#Some basic lesson done :
-
-├── begin.py              # Python basics and fundamentals
-├── calculation.py        # Simple calculator implementation
-├── detail.py            # User details collection and formatting
-├── grow.py              # String operations and manipulations
-├── operators.py         # Various Python operators examples
-├── otherdatatypes.py    # Lists and their operations
-├── someother.py         # Functions and control flow examples
-├── tuples.py            # Tuple operations and methods
-├── basic.py             # Countdown timer implementation
-├── check.py             # Number classification program
-├── countdown.py         # Simple countdown program
-├── greet.py             # Greeting program with string functions
-├── guessme.py           # Number guessing game
-├── helloworld.py        # Basic "Hello, World!" program
-├── myowndone.py         # Todo list manager (custom implementation)
-├── nestedif.py          # Nested if-else examples
-├── someit.py            # Enhanced calculator with multiple operations
-├── timer.py             # Calendar and timer functions
-└── todo_list_manager.py # Complete todo list management system
-
 #Features
 Core Python Concepts
 Variables & Data Types: Strings, integers, floats, booleans
